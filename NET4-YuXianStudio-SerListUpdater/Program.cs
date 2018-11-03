@@ -12,7 +12,7 @@ namespace NET4_Update_YuXStudio_ServerList
             if (File.Exists(serverdat))
             {
                 Console.WriteLine("  ");
-                Console.WriteLine("  Copyright © 2019 YuxianStudio Organization All Rights Reserved. 使用有问题请联系:yuxianstudio@gmail.com");
+                Console.WriteLine("  Copyright © 2019 YuXianStudio. All Rights Reserved. 使用有问题请联系:yuxianstudio@gmail.com");
                 Console.WriteLine("  ");
                 Console.WriteLine("  非常重要：请确保该程序在根目录下!!!");
                 Console.WriteLine("  ");
@@ -35,7 +35,7 @@ namespace NET4_Update_YuXStudio_ServerList
             }
             else
             {
-                Console.WriteLine("  Copyright © 2019 YuxianStudio Organization All Rights Reserved. 使用有问题请联系:yuxianstudio@gmail.com");
+                Console.WriteLine("  Copyright © 2019 YuXianStudio. All Rights Reserved. 使用有问题请联系:yuxianstudio@gmail.com");
                 Console.WriteLine("  ");
                 Console.WriteLine("  非常重要：请确保该程序在根目录下!!!");
                 Console.WriteLine("  ");
