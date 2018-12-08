@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
 [assembly: AssemblyTitle("NET4-YuXianStudio-SerListUpdater")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("欲仙工作室我的世界服务器列表更新器")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("YuXianStudio Co.,Ltd.")]
 [assembly: AssemblyProduct("NET4-YuXianStudio-SerListUpdater")]

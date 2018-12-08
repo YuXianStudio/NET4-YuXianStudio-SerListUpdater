@@ -44,8 +44,8 @@ namespace NET4_Update_YuXStudio_ServerList
                 Console.WriteLine("  若“需要”下载，请按“回车”继续");
                 Console.WriteLine("  若“无需”下载，请关闭该窗口");
                 Console.ReadLine();
-                WebClient webClient2 = new WebClient();
-                webClient2.DownloadFile("https://minecraft-yuxianstudio-1252460563.cosgz.myqcloud.com/servers.dat", ".minecraft/servers.dat");
+                WebClient webClient = new WebClient();
+                webClient.DownloadFile("https://minecraft-yuxianstudio-1252460563.cosgz.myqcloud.com/servers.dat", ".minecraft/servers.dat");
                 Console.WriteLine("  下载servers.dat至/.minecraft目录完成!");
                 Console.WriteLine("  下载服务器列表完成!");
                 Console.WriteLine("  请按回车“关闭”窗口");
