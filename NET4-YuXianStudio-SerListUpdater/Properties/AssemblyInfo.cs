@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("YuXianStudio Co.,Ltd.")]
 [assembly: AssemblyProduct("NET4-YuXianStudio-SerListUpdater")]
-[assembly: AssemblyCopyright("Copyright © 2019 YuXianStudio.")]
+[assembly: AssemblyCopyright("Copyright © 2019 YuXianStudio Co.,Ltd.")]
 [assembly: AssemblyTrademark("YuXianStudio")]
 [assembly: AssemblyCulture("")]
 
